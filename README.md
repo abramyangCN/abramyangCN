@@ -21,6 +21,6 @@ Here are some ideas to get you started:
     - email: abram.yang@outlook.com 
     - wechat: abramyangcn
 
-[![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=abramyangcn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramyangcn)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abramyangcn&repo=abramyangcn)](https://github.com/anuraghazra/github-readme-stats)
+[![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=abramyangcn)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramyangcn)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abramyangcn&repo=abramyangcn)](https://github.com/anuraghazra/github-readme-stats)  
